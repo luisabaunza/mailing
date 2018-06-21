@@ -1,5 +1,6 @@
 body{
 	font-family: serif;
-	color: blue;
-	
+	color: red;
+	background-image: url("./background.png");	
 }
+
